@@ -1,0 +1,17 @@
+{
+  "name": "more-string-434",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Definition of an object with a lone string property to provide handy string manipulation functions.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tbmeans/more-string-434.git"
+  },
+  "keywords": ["string", "text", "formatting"],
+  "author": "Timothy B. Means",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbmeans/more-string-434/issues"
+  },
+  "homepage": "https://github.com/tbmeans/more-string-434"
+}
