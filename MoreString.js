@@ -138,7 +138,7 @@ MoreString.prototype.under80CharsPerLine = function(delim) {
  * @returns string with at least one occurrence of a comma separator
  */
 MoreString.prototype.csvIncrement = function(s) {
-  return (this.length && this.split(',') || []).concat([ s ]).join();
+  return (this.str.length && this.str.split(',') || []).concat([ s ]).join();
 };
 
 /**
