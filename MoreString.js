@@ -151,7 +151,7 @@ MoreString.prototype.csvIncrement = function(s) {
  */
 MoreString.toHmmss = function(totalSeconds) {
   return new this(
-    t === Infinity && '\u221E' || [
+    totalSeconds === Infinity && '\u221E' || [
       Math.floor(totalSeconds / 60 / 60),
       Math.floor(totalSeconds / 60) % 60,
       totalSeconds % 60
