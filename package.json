@@ -1,6 +1,6 @@
 {
   "name": "more-string-434",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "Definition of an object with a lone string property to provide handy string manipulation functions.",
   "repository": {
